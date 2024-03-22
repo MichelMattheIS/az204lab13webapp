@@ -63,4 +63,4 @@ jobs:
           app-name: "webapp-sammichelm"
           slot-name: "Production"
           package: .
-          resource-group: "wProject-Sam-RG"
+          resource-group-name: "wProject-Sam-RG"
